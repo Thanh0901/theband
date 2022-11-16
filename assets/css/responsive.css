@@ -11,6 +11,7 @@
   }
   .contact-form .form-control {
     padding: 15px;
+    font-size: 16px;
   }
   .form-submit-btn {
     padding: 15px 16px;
@@ -18,8 +19,11 @@
   .contact-info {
     line-height: 2;
   }
+  .contact-submit-btn {
+    font-size: 16px;
+  }
   #footer .social-list {
-    font-size: 32px;
+    font-size: 24px;
   }
   #footer .social-list a {
     margin: 0 8px;
@@ -84,4 +88,7 @@
   .contact-form {
     margin-top: 32px;
   }
+  /* #footer .social-list {
+    font-size: 28px;
+  } */
 }
