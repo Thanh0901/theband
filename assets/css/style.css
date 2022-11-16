@@ -337,6 +337,7 @@ width: 33.3333%; */
   border: none;
   padding: 11px 16px;
   cursor: pointer;
+  -webkit-appearance: none;
 }
 .form-submit-btn:hover {
   background-color: #ccc;
