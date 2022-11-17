@@ -150,7 +150,7 @@ html {
   /* background-color: violet;
    min-height: 1000px; */
   padding-top: 50%;
-  background: url("../assets/img/slider/slider1.jpg") top center/cover no-repeat;
+  background: url("./assets/img/slider/slider1.jpg") top center/cover no-repeat;
 }
 #slider .text-content {
   position: absolute;
